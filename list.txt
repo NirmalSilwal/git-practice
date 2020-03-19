@@ -6,3 +6,8 @@ orange
 mango
 brinjal
 baggage
+
+Meat
+
+Saussages
+Chicken tandoori

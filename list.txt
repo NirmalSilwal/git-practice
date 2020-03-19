@@ -11,6 +11,18 @@ Meat
 
 Saussages
 Chicken tandoori
+<<<<<<< HEAD
 lollypop
 bangda fries
 perri perri
+=======
+banana shake
+strawberry
+
+
+Dairy
+
+Milk
+egg
+cheese
+>>>>>>> dairy
